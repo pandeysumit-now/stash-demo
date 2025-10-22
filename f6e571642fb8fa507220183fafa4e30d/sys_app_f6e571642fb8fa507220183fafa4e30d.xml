@@ -15,7 +15,7 @@
         <license_model>none</license_model>
         <logo/>
         <menu/>
-        <name>87291730912</name>
+        <name>Stash Demo App</name>
         <package_json/>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
@@ -24,7 +24,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_snc_87291730912</source>
-        <store_correlation_id>REPOAPP0000001003</store_correlation_id>
+        <store_correlation_id>REPOAPP0000001005</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -32,16 +32,16 @@
         <sys_created_by>sumit.pandey</sys_created_by>
         <sys_created_on>2025-10-21 21:40:24</sys_created_on>
         <sys_id>f6e571642fb8fa507220183fafa4e30d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_updated_by>sumit.pandey</sys_updated_by>
-        <sys_updated_on>2025-10-21 22:09:36</sys_updated_on>
+        <sys_updated_on>2025-10-22 06:23:41</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.1</version>
+        <version>1.0.3</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=f6e571642fb8fa507220183fafa4e30d"/>
 </record_update>

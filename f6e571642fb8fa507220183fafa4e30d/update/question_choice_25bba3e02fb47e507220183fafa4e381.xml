@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Travel type">5dbba3e02fb47e507220183fafa4e338</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>sumit.pandey</sys_created_by>
+        <sys_created_on>2025-10-22 06:15:02</sys_created_on>
+        <sys_id>25bba3e02fb47e507220183fafa4e381</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>External</sys_name>
+        <sys_package display_value="Stash Demo App" source="x_snc_87291730912">f6e571642fb8fa507220183fafa4e30d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stash Demo App">f6e571642fb8fa507220183fafa4e30d</sys_scope>
+        <sys_update_name>question_choice_25bba3e02fb47e507220183fafa4e381</sys_update_name>
+        <sys_updated_by>sumit.pandey</sys_updated_by>
+        <sys_updated_on>2025-10-22 06:15:02</sys_updated_on>
+        <text>External</text>
+        <value>External</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=25bba3e02fb47e507220183fafa4e381"/>
+</record_update>

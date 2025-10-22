@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_service_fulfillment_approval_step">
+    <sc_service_fulfillment_approval_step action="INSERT_OR_UPDATE">
+        <approval_title>Legal Clearance Approval Group</approval_title>
+        <approval_type>anyone_approves</approval_type>
+        <catalog_conditions>IO:01bb23e02fb47e507220183fafa4e368=Yes^EQ</catalog_conditions>
+        <groups name="Legal Clearance Approval Group">a0f7ac269f221200d9011977677fcfcc</groups>
+        <published_ref/>
+        <service_fulfillment_stage display_value="">f9bbe3e02fb47e507220183fafa4e358</service_fulfillment_stage>
+        <service_fulfillment_step_configuration display_value="Custom approval">2b7d9a7e87022010c84e4561d5cb0b21</service_fulfillment_step_configuration>
+        <sys_class_name>sc_service_fulfillment_approval_step</sys_class_name>
+        <sys_created_by>sumit.pandey</sys_created_by>
+        <sys_created_on>2025-10-22 06:15:04</sys_created_on>
+        <sys_id>75bbe3e02fb47e507220183fafa4e3bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approval from Legal Clearance Approval Group</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stash Demo App">f6e571642fb8fa507220183fafa4e30d</sys_scope>
+        <sys_update_name>sc_service_fulfillment_approval_step_75bbe3e02fb47e507220183fafa4e3bf</sys_update_name>
+        <sys_updated_by>sumit.pandey</sys_updated_by>
+        <sys_updated_on>2025-10-22 06:15:04</sys_updated_on>
+        <title>Approval from Legal Clearance Approval Group</title>
+        <users/>
+    </sc_service_fulfillment_approval_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=75bbe3e02fb47e507220183fafa4e3bf"/>
+</record_update>
