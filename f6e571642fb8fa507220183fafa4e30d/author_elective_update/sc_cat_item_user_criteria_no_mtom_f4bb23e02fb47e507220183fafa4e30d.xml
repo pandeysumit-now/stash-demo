@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="">78bb23e02fb47e507220183fafa4e30a</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>sumit.pandey</sys_created_by>
+        <sys_created_on>2025-10-22 06:14:59</sys_created_on>
+        <sys_id>f4bb23e02fb47e507220183fafa4e30d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of Request permission to travel.SNC External</sys_name>
+        <sys_package display_value="87291730912" source="x_snc_87291730912">f6e571642fb8fa507220183fafa4e30d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="87291730912">f6e571642fb8fa507220183fafa4e30d</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_f4bb23e02fb47e507220183fafa4e30d</sys_update_name>
+        <sys_updated_by>sumit.pandey</sys_updated_by>
+        <sys_updated_on>2025-10-22 06:14:59</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Stash Demo App">f6e571642fb8fa507220183fafa4e30d</application>
+        <file_path/>
+        <instance_id>cb6179212bb356d4323ef9f66e91bf37</instance_id>
+        <instance_name>spdevstudio</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_f4bb23e02fb47e507220183fafa4e30d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="">78bb23e02fb47e507220183fafa4e30a</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>sumit.pandey</sys_created_by><sys_created_on>2025-10-22 06:14:59</sys_created_on><sys_id>f4bb23e02fb47e507220183fafa4e30d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Copy of Request permission to travel.SNC External</sys_name><sys_package display_value="87291730912" source="x_snc_87291730912">f6e571642fb8fa507220183fafa4e30d</sys_package><sys_policy/><sys_scope display_value="87291730912">f6e571642fb8fa507220183fafa4e30d</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_f4bb23e02fb47e507220183fafa4e30d</sys_update_name><sys_updated_by>sumit.pandey</sys_updated_by><sys_updated_on>2025-10-22 06:14:59</sys_updated_on><user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>-1123380182</payload_hash>
+        <record_name>Copy of Request permission to travel.SNC External</record_name>
+        <reverted_from/>
+        <source>bebb8e32eb2032105ce8f7effdc0cd72</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-10-16 12:46:20</sys_created_on>
+        <sys_id>34dbafe02fb47e507220183fafa4e318</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>199ed0e95600000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>f0dbafe05cb47e5032715c7ab0dda318</update_guid>
+        <update_guid_history>f0dbafe05cb47e5032715c7ab0dda318:-1123380182</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Copy of Request permission to travel.SNC External">34dbafe02fb47e507220183fafa4e319</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>sumit.pandey</sys_created_by>
+        <sys_created_on>2025-10-22 06:15:32</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>0350d89fc33b4b968029ea0f3a959104</sys_id>
+        <sys_metadata>f4bb23e02fb47e507220183fafa4e30d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of Request permission to travel.SNC External</sys_name>
+        <sys_package display_value="Stash Demo App" source="x_snc_87291730912">f6e571642fb8fa507220183fafa4e30d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Stash Demo App">f6e571642fb8fa507220183fafa4e30d</sys_scope>
+        <sys_scope_delete display_value="">f74481456cb34221a8d5e826295ec1f1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_f4bb23e02fb47e507220183fafa4e30d</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_f4bb23e02fb47e507220183fafa4e30d">34dbafe02fb47e507220183fafa4e318</sys_update_version>
+        <sys_updated_by>sumit.pandey</sys_updated_by>
+        <sys_updated_on>2025-10-22 06:15:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -15,7 +15,7 @@
         <license_model>none</license_model>
         <logo/>
         <menu/>
-        <name>87291730912</name>
+        <name>Stash Demo App</name>
         <package_json/>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
@@ -32,9 +32,9 @@
         <sys_created_by>sumit.pandey</sys_created_by>
         <sys_created_on>2025-10-21 21:40:24</sys_created_on>
         <sys_id>f6e571642fb8fa507220183fafa4e30d</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_updated_by>application_repo_pipeline</sys_updated_by>
-        <sys_updated_on>2025-10-21 22:44:09</sys_updated_on>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_updated_by>sumit.pandey</sys_updated_by>
+        <sys_updated_on>2025-10-22 06:23:41</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
